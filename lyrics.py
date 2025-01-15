@@ -1,10 +1,6 @@
 import time
 from threading import Thread, Lock
 import sys
-import os
-
-
-os.system('cls')
 
 lock = Lock()
 
